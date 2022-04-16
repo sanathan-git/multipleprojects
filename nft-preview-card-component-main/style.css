@@ -5,9 +5,6 @@ body{
     font-family: 'Outfit', sans-serif;
 }
 .container{
-    display:flex;
-    justify-content:center;
-    align-items: center;
    width: 375px;
    height: 580px;
    background: #15273f;
