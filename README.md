@@ -5,4 +5,4 @@
  <br>
   https://sanathan-git.github.io/multipleprojects/order-summary-component-main
  <br>
-  https://sanathan-git.github.io/multipleprojects/
+  https://sanathan-git.github.io/multipleprojects/expenses-chart-component-main
